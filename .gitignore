@@ -3,3 +3,9 @@
 ################################################################################
 
 /DIAndCommonAppSettings/.vs/DIAndCommonAppSettings
+/DIAndCommonAppSettings/DIAndCommonAppSettings.Demo1/bin/Debug/netcoreapp3.1
+/DIAndCommonAppSettings/DIAndCommonAppSettings.Demo1/obj
+/DIAndCommonAppSettings/DIAndCommonAppSettings.Demo2/bin/Debug/netcoreapp3.1
+/DIAndCommonAppSettings/DIAndCommonAppSettings.Demo2/obj
+/DIAndCommonAppSettings/DIAndCommonAppSettings.Demo3/bin/Debug/netcoreapp3.1
+/DIAndCommonAppSettings/DIAndCommonAppSettings.Demo3/obj
